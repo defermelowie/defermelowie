@@ -22,5 +22,5 @@
 
 ## 📕 Repo's:
 
-[![RV32I](https://github-readme-stats.vercel.app/api/pin/?username=defermelowie&repo=RV32I-course-project)](https://github.com/anuraghazra/github-readme-stats)
-[![Hnefatafl](https://github-readme-stats.vercel.app/api/pin/?username=defermelowie&repo=Hnefatafl)](https://github.com/anuraghazra/github-readme-stats)
+[![RV32I](https://github-readme-stats.vercel.app/api/pin/?username=defermelowie&repo=RV32I-course-project)](https://github.com/defermelowie/RV32I-course-project)
+[![Hnefatafl](https://github-readme-stats.vercel.app/api/pin/?username=defermelowie&repo=Hnefatafl)](https://github.com/defermelowie/Hnefatafl)
