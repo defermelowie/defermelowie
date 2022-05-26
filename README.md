@@ -19,8 +19,3 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=defermelowie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=defermelowie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📕 Repo's:
-
-[![RV32I](https://github-readme-stats.vercel.app/api/pin/?username=defermelowie&repo=RV32I-course-project)](https://github.com/defermelowie/RV32I-course-project)
-[![Hnefatafl](https://github-readme-stats.vercel.app/api/pin/?username=defermelowie&repo=Hnefatafl)](https://github.com/defermelowie/Hnefatafl)
