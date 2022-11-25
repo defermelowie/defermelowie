@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=defermelowie&style=flat"/>
 
-- 🎓 Engineering Technology
+- 🎓 Master of cybersecurity
 - 🔭 Interested in FPGA, hardware design and embedded devices
 
 ## 🛠️ Languages and technologies
