@@ -9,9 +9,10 @@
 
 ## 🛠️ Languages and technologies
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" width="40" height="40"/>&nbsp-->
-</div>
+- Git <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="20" height="20"/>
+- Linux <img src="https://github.com/devicons/devicon/blob/master/icons/opensuse/opensuse-original.svg" title="Linux (Opensuse)" width="20" height="20"/>
+- C <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="20" height="20"/>
+- Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="20" height="20"/>
+- Rust <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" width="20" height="20"/>
+- VHDL
+- Verilog
