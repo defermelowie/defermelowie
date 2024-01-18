@@ -11,3 +11,4 @@
 - <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="20" height="20"/>
 - VHDL
 - Verilog
+- ...
