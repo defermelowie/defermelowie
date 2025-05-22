@@ -2,7 +2,7 @@
 
 - 🎓 Advanced Master of CyberSecurity @ KULeuven
 - 🎓 Master of Engineering Technology @ Hasselt University & KULeuven
-- 🔭 Working on RISC-V Hypervisor semantics @ Distrinet - KULeuven
+- 🔭 Working on ~RISC-V Hypervisor semantics~ Energy security on µProcessors @ Distrinet - KULeuven
 
 ## 🛠️ Languages
 
